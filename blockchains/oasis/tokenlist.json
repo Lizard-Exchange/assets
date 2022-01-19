@@ -30,7 +30,7 @@
         {
             "chainId": 42262,
             "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",                        
-            "name": "ETH from ETH",
+            "name": "ETH",
             "symbol": "ETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F/logo.png"            
@@ -54,7 +54,7 @@
         {
             "chainId": 42262,
             "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",                        
-            "name": "WBTC from ETH",
+            "name": "WBTC",
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb/logo.png"            
