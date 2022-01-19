@@ -6,7 +6,7 @@
         {
             "chainId": 42262,
             "address": "0x3cA9dbbb1C64b5AbCb35B283441E817129c15544",                        
-            "name": "DAI Stablecoin (Wormhole)",
+            "name": "DAI (Wormhole)",
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x3cA9dbbb1C64b5AbCb35B283441E817129c15544/logo.png"            
@@ -62,7 +62,7 @@
         {
             "chainId": 42262,
             "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",                        
-            "name": "Tether USD (Wormhole)",
+            "name": "USDT (Wormhole)",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xdC19A122e268128B5eE20366299fc7b5b199C8e3/logo.png"            
@@ -70,7 +70,7 @@
         {
             "chainId": 42262,
             "address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",                        
-            "name": "USD Coin (Wormhole)",
+            "name": "USDC (Wormhole)",
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD/logo.png"            
