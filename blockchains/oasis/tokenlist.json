@@ -6,16 +6,16 @@
         {
             "chainId": 42262,
             "address": "0x3cA9dbbb1C64b5AbCb35B283441E817129c15544",                        
-            "name": "DAI (Wormhole)",
-            "symbol": "DAI",
+            "name": "DAI",
+            "symbol": "DAI (Wormhole)",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x3cA9dbbb1C64b5AbCb35B283441E817129c15544/logo.png"            
         },
         {
             "chainId": 42262,
             "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",                        
-            "name": "LUNA (Wormhole)",
-            "symbol": "LUNA",
+            "name": "LUNA",
+            "symbol": "LUNA (Wormhole)",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823/logo.png"            
         },
@@ -30,32 +30,32 @@
         {
             "chainId": 42262,
             "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",                        
-            "name": "ETH (Wormhole)",
-            "symbol": "ETH from ETH",
+            "name": "ETH from ETH",
+            "symbol": "ETH (Wormhole)",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F/logo.png"            
         },
         {
             "chainId": 42262,
             "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",                        
-            "name": "UST (Wormhole)",
-            "symbol": "UST",
+            "name": "UST",
+            "symbol": "UST (Wormhole)",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2/logo.png"            
         },
         {
             "chainId": 42262,
             "address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",                        
-            "name": "Solana (Wormhole)",
-            "symbol": "SOL",
+            "name": "Solana",
+            "symbol": "SOL (Wormhole)",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc/logo.png"            
         },
         {
             "chainId": 42262,
             "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",                        
-            "name": "WBTC (Wormhole)",
-            "symbol": "WBTC from ETH",
+            "name": "WBTC from ETH",
+            "symbol": "WBTC (Wormhole)",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb/logo.png"            
         },
