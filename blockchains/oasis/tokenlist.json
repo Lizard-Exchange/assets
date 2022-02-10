@@ -5,6 +5,14 @@
     "tokens": [
         {
             "chainId": 42262,
+            "address": "0x6a977d5f48D57eF125C98469D511Ef4E0cE44E10",                        
+            "name": "LIZ",
+            "symbol": "LIZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x6a977d5f48D57eF125C98469D511Ef4E0cE44E10/logo.png"            
+        },
+        {
+            "chainId": 42262,
             "address": "0x3cA9dbbb1C64b5AbCb35B283441E817129c15544",                        
             "name": "DAI",
             "symbol": "DAI",
