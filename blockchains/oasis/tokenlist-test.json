@@ -1,0 +1,101 @@
+{
+    "name": "Lizard assets",
+    "logoURI": "https://lizard.exchange/favicon.png",
+    "timestamp": "2022-18-01T22:30:24.689Z",
+    "tokens": [
+        {
+            "chainId": 42262,
+            "address": "0x6a977d5f48D57eF125C98469D511Ef4E0cE44E10",                        
+            "name": "LIZ",
+            "symbol": "LIZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x6a977d5f48D57eF125C98469D511Ef4E0cE44E10/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0x3cA9dbbb1C64b5AbCb35B283441E817129c15544",                        
+            "name": "DAI",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x3cA9dbbb1C64b5AbCb35B283441E817129c15544/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823",                        
+            "name": "LUNA",
+            "symbol": "LUNA",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x4F43717B20ae319Aa50BC5B2349B93af5f7Ac823/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",                        
+            "name": "WROSE",
+            "symbol": "WROSE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x21C718C22D52d0F3a789b752D4c2fD5908a8A733/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",                        
+            "name": "ETH",
+            "symbol": "ETH",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2",                        
+            "name": "UST",
+            "symbol": "UST",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xa1E73c01E0cF7930F5e91CB291031739FE5Ad6C2/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc",                        
+            "name": "Solana",
+            "symbol": "SOL",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xd17dDAC91670274F7ba1590a06EcA0f2FD2b12bc/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb",                        
+            "name": "WBTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xd43ce0aa2a29DCb75bDb83085703dc589DE6C7eb/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",                        
+            "name": "USDT (ETHEREUM)",
+            "symbol": "USDT (ETHEREUM)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xdC19A122e268128B5eE20366299fc7b5b199C8e3/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153",                        
+            "name": "USDT (BSC)",
+            "symbol": "USDT (BSC)",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD",                        
+            "name": "USDC",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD/logo.png"            
+        }
+
+    ],
+    "version": {
+        "major": 15,
+        "minor": 0,
+        "patch": 0
+    }
+}
