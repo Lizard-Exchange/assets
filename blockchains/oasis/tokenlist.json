@@ -70,8 +70,8 @@
         {
             "chainId": 42262,
             "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",                        
-            "name": "USDT (ETHEREUM)",
-            "symbol": "USDT (ETHEREUM)",
+            "name": "USDT (ETH)",
+            "symbol": "USDT (ETH)",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xdC19A122e268128B5eE20366299fc7b5b199C8e3/logo.png"            
         },
