@@ -90,6 +90,22 @@
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xE8A638b3B7565Ee7c5eb9755E58552aFc87b94DD/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0xd79Ef9A91b56c690C7b80570a3c060678667f469",                        
+            "name": "WBNB",
+            "symbol": "WBNB",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0xd79Ef9A91b56c690C7b80570a3c060678667f469/logo.png"            
+        },
+        {
+            "chainId": 42262,
+            "address": "0x51f712845360FB0645a9d893d0f3D73826FFB4bD",                        
+            "name": "LHODL",
+            "symbol": "LHODL",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x51f712845360FB0645a9d893d0f3D73826FFB4bD/logo.png"            
         }
 
     ],
