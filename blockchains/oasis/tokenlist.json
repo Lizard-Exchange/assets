@@ -16,7 +16,7 @@
             "address": "0xe1b8e258075d92CC6E9BCD44e423Bd7Eea5D15c2",                        
             "name": "SafeMoonRose",
             "symbol": "SMRose",
-            "decimals": 18,
+            "decimals": 9,
             "logoURI": "https://static.wixstatic.com/media/e370ea_2a4666688d174ec3b96a41e7c10c6f33~mv2.png/v1/fill/w_803,h_803,al_c,usm_0.66_1.00_0.01,enc_auto/Untitled%20design%20(3).png"            
         },
         {
