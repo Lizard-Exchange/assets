@@ -88,7 +88,7 @@
             "address": "0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153",                        
             "name": "USDT (BSC)",
             "symbol": "USDT (BSC)",
-            "decimals": 6,
+            "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x366EF31C8dc715cbeff5fA54Ad106dC9c25C6153/logo.png"            
         },
         {
