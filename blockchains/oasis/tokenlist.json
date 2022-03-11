@@ -11,14 +11,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/crypto-guys-club/assets/master/blockchains/oasis/assets/0x6a977d5f48D57eF125C98469D511Ef4E0cE44E10/logo.png"            
         },
-           {
-            "chainId": 42262,
-            "address": "0xe1b8e258075d92CC6E9BCD44e423Bd7Eea5D15c2",                        
-            "name": "SafeMoonRose",
-            "symbol": "SMRose",
-            "decimals": 9,
-            "logoURI": "https://static.wixstatic.com/media/e370ea_2a4666688d174ec3b96a41e7c10c6f33~mv2.png/v1/fill/w_803,h_803,al_c,usm_0.66_1.00_0.01,enc_auto/Untitled%20design%20(3).png"            
-        },
         {
             "chainId": 42262,
             "address": "0x3cA9dbbb1C64b5AbCb35B283441E817129c15544",                        
